@@ -3,6 +3,4 @@ Implementations of papers covered during the mathematical finance reading group 
 
 Papers:
 - Graph approach to portfolio optimization: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4602019
-- Part 2 of above: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4667426
-- Portfolio cuts: https://arxiv.org/pdf/1910.05561
 - Willow tree algorithm: https://open.library.ubc.ca/media/stream/pdf/831/1.0080017/2
