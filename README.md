@@ -1,4 +1,4 @@
-# Imperial-Portfolio-Theory-DRP
+# Mathematical Finance Reading Group Code
 Implementations of papers covered during the mathematical finance reading group sessions at Imperial.
 
 Papers:
